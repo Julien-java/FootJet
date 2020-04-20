@@ -1,0 +1,22 @@
+Searching 1 file for "new"
+
+/Users/blackbob/Desktop/未命名文件夹/index.html:
+   66  					<script src="js/uisearch.js"></script>
+   67  						<script>
+   68: 							new UISearch( document.getElementById( 'sb-search' ) );
+   69  						</script>
+   70  				<!-- //search-scripts -->
+   ..
+  205  								<img src="images/k1.png" alt="" />
+  206  							</figure>
+  207: 							<h3>New Dishes</h3>
+  208  							<p> Nemo enim ipsam voluptatem
+  209  							quia voluptas sit aspernatur aut
+  ...
+  393  			<h4>ADDRESS</h4>
+  394  			<ul>
+  395: 				<li class="list-one">Issy-les-Moulineaux, Paris</li>
+  396  				<li class="list-two"><a href="mailto:info@example.com">favorites@example.com</a></li>
+  397  				<li class="list-three">+8 800 555 555 55</li>
+
+3 matches in 1 file
